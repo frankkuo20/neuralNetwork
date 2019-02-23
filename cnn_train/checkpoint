@@ -1,0 +1,6 @@
+model_checkpoint_path: "graph.ckpt-1000"
+all_model_checkpoint_paths: "..\\trainModel\\graph.ckpt-970"
+all_model_checkpoint_paths: "..\\trainModel\\graph.ckpt-980"
+all_model_checkpoint_paths: "..\\trainModel\\graph.ckpt-990"
+all_model_checkpoint_paths: "..\\trainModel\\graph.ckpt-1000"
+all_model_checkpoint_paths: "graph.ckpt-1000"

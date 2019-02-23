@@ -1,0 +1,2 @@
+model_checkpoint_path: "graph.ckpt-10000"
+all_model_checkpoint_paths: "graph.ckpt-10000"
